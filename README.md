@@ -1,4 +1,6 @@
 # Password-Generator
+*** IMPORTANT NOTE *** START :: This code was made several years ago by primative programmer Brent, not the current ultra-genius Brent. Decided to make this public because why not? Code has been unedited since creation date. :: END
+
 A simple password generator with a terrible looking GUI, easy to fix though for practical use.
 
 
